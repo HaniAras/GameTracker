@@ -72,7 +72,7 @@ The feedback recommended SQLite, but also said that JSON files are fine for a sm
 To make the JSON storage as clean as possible:
 
 - The data is split into three files: `games.json`, `collection.json` and `users.json`. This way, statistics like "most collected games" can be calculated from one file (`collection.json`).
-- Only the files in the `models/` folder read and write the JSON files. `server.js` never accesses them directly. If the project switched to SQLite later, only the model files would need to change.
+- Only the model files can open and change the JSON files. `server.js` never accesses them directly. If the project switched to SQLite later, only the model files would need to change.
 
 ## REST API
 
