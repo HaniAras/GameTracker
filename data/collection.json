@@ -1,1 +1,163 @@
-[]
+[
+  {
+    "userId": 2,
+    "gameId": 290856,
+    "isFavorite": true,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 3192,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 3498,
+    "isFavorite": true,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 4291,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 28,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 13536,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 5286,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 12020,
+    "isFavorite": false,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 802,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 3,
+    "gameId": 3498,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 3,
+    "gameId": 4200,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 3,
+    "gameId": 4291,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 3,
+    "gameId": 12020,
+    "isFavorite": false,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 3,
+    "gameId": 5286,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 2235,
+    "isFavorite": true,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 4,
+    "gameId": 3287,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 4,
+    "gameId": 58134,
+    "isFavorite": false,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 4,
+    "gameId": 416,
+    "isFavorite": true,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 4200,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 2,
+    "gameId": 3328,
+    "isFavorite": false,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 1,
+    "gameId": 28153,
+    "isFavorite": false,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 1,
+    "gameId": 58616,
+    "isFavorite": true,
+    "isCompleted": false,
+    "dateAdded": "2026-10-03"
+  },
+  {
+    "userId": 1,
+    "gameId": 269480,
+    "isFavorite": true,
+    "isCompleted": true,
+    "dateAdded": "2026-10-03"
+  }
+]

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Admin – GameTracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>GameTracker</h1>
+
+    <div id="user-bar">
+        <span id="user-info"></span>
+        <a class="nav-link" href="index.html">Discover games</a>
+        <a class="nav-link" href="collection.html">My collection</a>
+        <button id="logout-button">Log out</button>
+    </div>
+</header>
+
+<main>
+    <section>
+        <h2>Admin statistics</h2>
+        <p id="admin-message"></p>
+        <div id="stats" class="stats"></div>
+
+        <h3>Most collected games</h3>
+        <ol id="most-collected"></ol>
+    </section>
+</main>
+
+<script src="admin.js"></script>
+</body>
+</html>

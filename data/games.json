@@ -1,1 +1,374 @@
-[]
+[
+  {
+    "id": 290856,
+    "title": "Apex Legends",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch",
+      "macOS",
+      "PC",
+      "Xbox One"
+    ],
+    "releaseDate": "2019-02-04",
+    "rating": 3.63,
+    "coverImage": "https://media.rawg.io/media/games/737/737ea5662211d2e0bbd6f5989189e4f1.jpg"
+  },
+  {
+    "id": 16944,
+    "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+    "genres": [
+      "RPG"
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "Xbox 360"
+    ],
+    "releaseDate": "2012-04-16",
+    "rating": 4.17,
+    "coverImage": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+  },
+  {
+    "id": 3192,
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
+    "releaseDate": "2015-09-01",
+    "rating": 4.16,
+    "coverImage": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+  },
+  {
+    "id": 3498,
+    "title": "Grand Theft Auto V",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "PlayStation 3",
+      "PC",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "releaseDate": "2013-09-17",
+    "rating": 4.47,
+    "coverImage": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+  },
+  {
+    "id": 3328,
+    "title": "The Witcher 3: Wild Hunt",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 5",
+      "Xbox Series S/X",
+      "macOS",
+      "PlayStation 4",
+      "Nintendo Switch",
+      "PC",
+      "Xbox One"
+    ],
+    "releaseDate": "2015-05-18",
+    "rating": 4.64,
+    "coverImage": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+  },
+  {
+    "id": 4200,
+    "title": "Portal 2",
+    "genres": [
+      "Shooter",
+      "Puzzle"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Xbox 360",
+      "Linux",
+      "macOS",
+      "Xbox One"
+    ],
+    "releaseDate": "2011-04-18",
+    "rating": 4.57,
+    "coverImage": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+  },
+  {
+    "id": 4291,
+    "title": "Counter-Strike: Global Offensive",
+    "genres": [
+      "Shooter"
+    ],
+    "platforms": [
+      "PC",
+      "Linux",
+      "Xbox 360",
+      "PlayStation 3"
+    ],
+    "releaseDate": "2012-08-21",
+    "rating": 3.57,
+    "coverImage": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Red Dead Redemption 2",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "releaseDate": "2018-10-26",
+    "rating": 4.59,
+    "coverImage": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg"
+  },
+  {
+    "id": 13536,
+    "title": "Portal",
+    "genres": [
+      "Action",
+      "Puzzle"
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "Android",
+      "PlayStation 3",
+      "Xbox 360",
+      "Linux",
+      "Nintendo Switch"
+    ],
+    "releaseDate": "2007-10-09",
+    "rating": 4.48,
+    "coverImage": "https://media.rawg.io/media/games/7fa/7fa0b586293c5861ee32490e953a4996.jpg"
+  },
+  {
+    "id": 5286,
+    "title": "Tomb Raider",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "Xbox 360",
+      "macOS",
+      "PC"
+    ],
+    "releaseDate": "2013-03-05",
+    "rating": 4.06,
+    "coverImage": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+  },
+  {
+    "id": 12020,
+    "title": "Left 4 Dead 2",
+    "genres": [
+      "Action",
+      "Shooter"
+    ],
+    "platforms": [
+      "Xbox 360",
+      "Linux",
+      "PC",
+      "macOS"
+    ],
+    "releaseDate": "2009-11-17",
+    "rating": 4.1,
+    "coverImage": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+  },
+  {
+    "id": 802,
+    "title": "Borderlands 2",
+    "genres": [
+      "Action",
+      "Shooter",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "macOS",
+      "PC",
+      "Android",
+      "Linux",
+      "PS Vita",
+      "Xbox 360"
+    ],
+    "releaseDate": "2012-09-18",
+    "rating": 4.01,
+    "coverImage": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+  },
+  {
+    "id": 1030,
+    "title": "Limbo",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Puzzle",
+      "Platformer"
+    ],
+    "platforms": [
+      "PC",
+      "Android",
+      "PS Vita",
+      "PlayStation 4",
+      "PlayStation 3",
+      "Xbox 360",
+      "Linux",
+      "macOS",
+      "iOS",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "releaseDate": "2010-07-21",
+    "rating": 4.14,
+    "coverImage": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+  },
+  {
+    "id": 58175,
+    "title": "God of War (2018)",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "releaseDate": "2018-04-20",
+    "rating": 4.54,
+    "coverImage": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+  },
+  {
+    "id": 2235,
+    "title": "Batman: Arkham Origins",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 3",
+      "PC",
+      "Android",
+      "Xbox 360"
+    ],
+    "releaseDate": "2013-10-25",
+    "rating": 3.95,
+    "coverImage": "https://media.rawg.io/media/games/fc3/fc30790a3b3c738d7a271b02c1e26dc2.jpg"
+  },
+  {
+    "id": 3287,
+    "title": "Batman: Arkham Knight",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "releaseDate": "2015-06-23",
+    "rating": 4.24,
+    "coverImage": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+  },
+  {
+    "id": 58134,
+    "title": "Marvel's Spider-Man",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "PlayStation 5"
+    ],
+    "releaseDate": "2018-09-07",
+    "rating": 4.45,
+    "coverImage": "https://media.rawg.io/media/games/9aa/9aa42d16d425fa6f179fc9dc2f763647.jpg"
+  },
+  {
+    "id": 416,
+    "title": "Grand Theft Auto: San Andreas",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "macOS",
+      "PC",
+      "iOS",
+      "Xbox",
+      "Android",
+      "PlayStation 4",
+      "PlayStation 3",
+      "PlayStation 2",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "releaseDate": "2004-10-26",
+    "rating": 4.5,
+    "coverImage": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+  },
+  {
+    "id": 28153,
+    "title": "Assassin's Creed Origins",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "Xbox One",
+      "PC",
+      "PlayStation 4"
+    ],
+    "releaseDate": "2017-10-27",
+    "rating": 3.96,
+    "coverImage": "https://media.rawg.io/media/games/336/336c6bd63d83cf8e59937ab8895d1240.jpg"
+  },
+  {
+    "id": 58616,
+    "title": "Assassin's Creed Odyssey",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "platforms": [
+      "PlayStation 4",
+      "PC",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "releaseDate": "2018-10-05",
+    "rating": 3.97,
+    "coverImage": "https://media.rawg.io/media/games/c6b/c6bd26767c1053fef2b10bb852943559.jpg"
+  },
+  {
+    "id": 269480,
+    "title": "Batman: Arkham Collection",
+    "genres": [
+      "Action"
+    ],
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "PlayStation 4"
+    ],
+    "releaseDate": "2019-09-06",
+    "rating": 4.26,
+    "coverImage": "https://media.rawg.io/media/screenshots/fd9/fd9eae438821129fa47d4498717fad33.jpg"
+  }
+]

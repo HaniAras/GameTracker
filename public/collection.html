@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>My collection – GameTracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>GameTracker</h1>
+
+    <div id="user-bar">
+        <span id="user-info"></span>
+        <a class="nav-link" href="index.html">Discover games</a>
+        <button id="logout-button">Log out</button>
+    </div>
+</header>
+
+<main>
+    <section>
+        <h2>My collection</h2>
+        <form id="collection-filter">
+            <label for="collection-genre">Genre</label>
+            <select id="collection-genre">
+                <option value="">All genres</option>
+                <option>Action</option>
+                <option>Adventure</option>
+                <option>RPG</option>
+                <option>Shooter</option>
+                <option>Strategy</option>
+                <option>Puzzle</option>
+                <option>Racing</option>
+                <option>Sports</option>
+            </select>
+            <label for="collection-platform">Platform</label>
+            <select id="collection-platform">
+                <option value="">All platforms</option>
+                <option>PC</option>
+                <option>PlayStation 5</option>
+                <option>PlayStation 4</option>
+                <option>Xbox Series S/X</option>
+                <option>Xbox One</option>
+                <option>Nintendo Switch</option>
+            </select>
+        </form>
+        <p id="collection-message"></p>
+        <ul id="collection-list" class="game-list"></ul>
+    </section>
+</main>
+
+<script src="collection.js"></script>
+</body>
+</html>

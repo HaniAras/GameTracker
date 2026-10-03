@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GameTracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>GameTracker</h1>
+
+    <div id="user-bar">
+        <span id="user-info" hidden></span>
+        <a id="collection-link" class="nav-link" href="collection.html" hidden>My collection</a>
+        <a id="admin-link" class="nav-link" href="admin.html" hidden>Admin</a>
+        <button id="login-button">Log in</button>
+        <button id="register-button">Sign up</button>
+        <button id="logout-button" hidden>Log out</button>
+    </div>
+</header>
+
+<main>
+    <section id="search-section">
+        <h2>Discover games</h2>
+        <form id="search-form">
+            <label for="search-input">Title</label>
+            <input id="search-input" type="search">
+            <label for="search-genre">Genre</label>
+            <select id="search-genre">
+                <option value="">All genres</option>
+                <option>Action</option>
+                <option>Adventure</option>
+                <option>RPG</option>
+                <option>Shooter</option>
+                <option>Strategy</option>
+                <option>Puzzle</option>
+                <option>Racing</option>
+                <option>Sports</option>
+            </select>
+            <label for="search-platform">Platform</label>
+            <select id="search-platform">
+                <option value="">All platforms</option>
+                <option>PC</option>
+                <option>PlayStation 5</option>
+                <option>PlayStation 4</option>
+                <option>Xbox Series S/X</option>
+                <option>Xbox One</option>
+                <option>Nintendo Switch</option>
+            </select>
+            <button type="submit">Search</button>
+        </form>
+        <p id="search-message"></p>
+        <ul id="search-results" class="game-list"></ul>
+    </section>
+</main>
+
+<dialog id="login-dialog">
+    <h2>Log in</h2>
+    <form id="login-form">
+        <div class="field">
+            <label for="login-username">Username</label>
+            <input id="login-username" required>
+        </div>
+        <div class="field">
+            <label for="login-password">Password</label>
+            <input id="login-password" type="password" required>
+        </div>
+        <p id="login-message" role="alert"></p>
+        <div class="dialog-buttons">
+            <button type="submit">Log in</button>
+            <button type="button" id="login-cancel">Cancel</button>
+        </div>
+    </form>
+</dialog>
+
+<dialog id="register-dialog">
+    <h2>Sign up</h2>
+    <form id="register-form">
+        <div class="field">
+            <label for="register-username">Username</label>
+            <input id="register-username" required>
+        </div>
+        <div class="field">
+            <label for="register-password">Password</label>
+            <input id="register-password" type="password" required>
+        </div>
+        <p id="register-message" role="alert"></p>
+        <div class="dialog-buttons">
+            <button type="submit">Create account</button>
+            <button type="button" id="register-cancel">Cancel</button>
+        </div>
+    </form>
+</dialog>
+
+<script src="app.js"></script>
+</body>
+</html>

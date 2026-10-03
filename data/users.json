@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "passwordHash": "$2b$10$CpDUch7jz5PdYtILF717r.tgi2gPuQd68DdxGZIml.2tiAgMXsc8O",
+    "_comment": "Test account – password: admin123",
+    "role": "admin",
+    "createdAt": "2026-10-01"
+  },
+  {
+    "id": 2,
+    "username": "hani",
+    "passwordHash": "$2b$10$ZYdq1Iozmx9FqCISFhR6eunUiAOmsrmXCiolGwvFbC0cUqYUc1htO",
+    "_comment": "Test account – password: hani123",
+    "role": "user",
+    "createdAt": "2026-10-01"
+  },
+  {
+    "id": 3,
+    "username": "crisi",
+    "passwordHash": "$2b$10$kEejPXsEccFjejNKFLpSaOcG899xl7tf71Hs1gmlOHYMgbdGbjp8K",
+    "_comment": "Test account – password: crisi123",
+    "role": "user",
+    "createdAt": "2026-10-01"
+  },
+  {
+    "id": 4,
+    "username": "test",
+    "passwordHash": "$2b$10$bo3OIXJ6rbGBmk/FdZZ/iu6VGX4yK7wFsmwJSaXcEPagFPMhvnuvO",
+    "role": "user",
+    "createdAt": "2026-10-03"
+  }
+]
